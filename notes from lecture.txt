@@ -1,0 +1,10 @@
+autoprefixer: makes css compatible across all browsers
+beautify: makes css, html and javascript beautiful and aligned: Ctrl+Alt+B or select, right click and chose beautify
+brackets icons: puts icons beside each file in system 4 easy identification
+brackets snippets: skull image on right edge. create piece of code, save by name (eg yv). to use: type yv then tab/enter
+Emmet: speeds up coding. eg, .col-lg-6*5 creates 5 divs each with class of col-lg-6
+minimap: shows the whole document on right hand side in mini form
+
+
+use reset css to make the page have no styling at all meyerweb.com
+ 
